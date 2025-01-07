@@ -1,4 +1,4 @@
-# Uma breve introdução a Programação Linear
+# Uma Breve Introdução a Programação Linear
 
 _Minimizando problemas matemáticos com Python e AMPL_
 
